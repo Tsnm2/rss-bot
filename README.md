@@ -1,7 +1,7 @@
 # rss-bot
 an RSS Bot. uses indes/flowerss-bot.
 
-**also why are you here not for you only pros are allowed**
+**also why are you here? this isn't for you, only pros are allowed**
 
 refer to [reaitten/flowerss-bot](https://github.com/reaitten/flowerss-bot) if you want more details on variables.
 

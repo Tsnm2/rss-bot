@@ -5,7 +5,7 @@ an RSS Bot. uses indes/flowerss-bot.
 
 refer to [reaitten/flowerss-bot](https://github.com/reaitten/flowerss-bot) if you want more details on variables.
 
-Use [ElephantSQL](elephantsql.com) to save RSS configurations. Add under ``mysql``.
+Use [ElephantSQL](elephantsql.com) to save RSS configurations. Add under ``mysql`` in ``config.yml``.
 
 # deployment
 yeah yeah

@@ -1,4 +1,4 @@
-bot_token:
+bot_token: 1990575948:AAGIUQDT-MIf-p8oSNffBWkBsC_ys4bFKeE
 telegraph_token:
 telegraph_account:
 telegraph_author_name:
@@ -26,5 +26,5 @@ log:
 sqlite:
   path: ./data.db
 
-allowed_users:
+allowed_users: -1001531113599 810796147
 #separated by a space. for example "123456 789123"
